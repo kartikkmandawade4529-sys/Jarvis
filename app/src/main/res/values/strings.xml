@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Jarvis</string>
+    <string name="jarvis_service_desc">Lets Jarvis tap, type and scroll for you</string>
+</resources>
